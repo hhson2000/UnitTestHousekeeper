@@ -1,0 +1,12 @@
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\bin\Debug\net5.0\HouseKeeper.Application.deps.json
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\bin\Debug\net5.0\HouseKeeper.Application.dll
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\bin\Debug\net5.0\ref\HouseKeeper.Application.dll
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\bin\Debug\net5.0\HouseKeeper.Application.pdb
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.csprojAssemblyReference.cache
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.AssemblyInfoInputs.cache
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.AssemblyInfo.cs
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.csproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.dll
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\ref\HouseKeeper.Application.dll
+C:\Users\Son\Desktop\HouseKeeper\HouseKeeper.Application\obj\Debug\net5.0\HouseKeeper.Application.pdb
